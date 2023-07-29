@@ -2,6 +2,8 @@
 
 This project was used to learn C++. It is the classic SNAKE game remade in the SFML engine (https://www.sfml-dev.org). I learned how to create a window, draw shapes, handle keyboard inputs, and use audio.
 
+![Snake](screenshot.png)
+
 ## C++
 
 I learned several things:
